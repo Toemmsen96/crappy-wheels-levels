@@ -1,0 +1,89 @@
+{
+	"author": "",
+	"balls": [],
+	"boosts": [
+		{
+			"rotation": -1.0297,
+			"scale": 1.0,
+			"strength": 3000.0,
+			"x": 370.0,
+			"y": 20.0
+		}
+	],
+	"finish": {
+		"x": 590.0,
+		"y": -70.0
+	},
+	"format_version": 1,
+	"id": "da0038c12ddc64b5",
+	"name": "Dings",
+	"start": {
+		"x": 0.0,
+		"y": 0.0
+	},
+	"tiles": [
+		{
+			"collision": true,
+			"length": 70.0,
+			"rotation": 0.0,
+			"x": 5.0,
+			"y": 20.0
+		},
+		{
+			"collision": true,
+			"length": 58.3095,
+			"rotation": -0.5404,
+			"x": 85.0,
+			"y": 25.0
+		},
+		{
+			"collision": true,
+			"length": 50.0,
+			"rotation": 0.0,
+			"x": 155.0,
+			"y": 20.0
+		},
+		{
+			"collision": true,
+			"length": 50.0,
+			"rotation": 0.6435,
+			"x": 240.0,
+			"y": 45.0
+		},
+		{
+			"collision": true,
+			"length": 31.6228,
+			"rotation": 0.3218,
+			"x": 275.0,
+			"y": 65.0
+		},
+		{
+			"collision": true,
+			"length": 50.0,
+			"rotation": 0.0,
+			"x": 305.0,
+			"y": 70.0
+		},
+		{
+			"collision": true,
+			"length": 72.8011,
+			"rotation": -0.2783,
+			"x": 355.0,
+			"y": 60.0
+		},
+		{
+			"collision": true,
+			"length": 36.0555,
+			"rotation": -0.9828,
+			"x": 390.0,
+			"y": 35.0
+		},
+		{
+			"collision": true,
+			"length": 162.0,
+			"rotation": 0.0,
+			"x": 525.0,
+			"y": -50.0
+		}
+	]
+}
