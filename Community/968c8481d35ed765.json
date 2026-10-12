@@ -1,0 +1,164 @@
+{
+	"author": "",
+	"balls": [
+		{
+			"collision": true,
+			"scale": 0.5,
+			"x": 830.0,
+			"y": 60.0
+		},
+		{
+			"collision": true,
+			"scale": 0.5,
+			"x": 950.0,
+			"y": 20.0
+		},
+		{
+			"collision": true,
+			"scale": 0.5,
+			"x": 960.0,
+			"y": 30.0
+		}
+	],
+	"boosts": [
+		{
+			"rotation": 0.0,
+			"scale": 1.0,
+			"strength": 1000.0,
+			"x": 480.0,
+			"y": 0.0
+		},
+		{
+			"rotation": 0.0,
+			"scale": 1.0,
+			"strength": 2000.0,
+			"x": 490.0,
+			"y": 0.0
+		},
+		{
+			"rotation": -1.2392,
+			"scale": 1.0,
+			"strength": 1500.0,
+			"x": 270.0,
+			"y": -120.0
+		}
+	],
+	"finish": {
+		"x": 960.0,
+		"y": 10.0
+	},
+	"format_version": 1,
+	"id": "968c8481d35ed765",
+	"name": "Speedometer",
+	"start": {
+		"x": 0.0,
+		"y": 0.0
+	},
+	"tiles": [
+		{
+			"collision": true,
+			"length": 230.0,
+			"rotation": 0.0,
+			"x": 5.0,
+			"y": 20.0
+		},
+		{
+			"collision": true,
+			"length": 100.0,
+			"rotation": -1.5708,
+			"x": -110.0,
+			"y": -40.0
+		},
+		{
+			"collision": true,
+			"length": 140.0,
+			"rotation": 0.0,
+			"x": -40.0,
+			"y": -90.0
+		},
+		{
+			"collision": true,
+			"length": 72.8011,
+			"rotation": -0.2783,
+			"x": 155.0,
+			"y": 10.0
+		},
+		{
+			"collision": true,
+			"length": 64.0312,
+			"rotation": -0.6747,
+			"x": 215.0,
+			"y": -20.0
+		},
+		{
+			"collision": true,
+			"length": 72.111,
+			"rotation": -0.9828,
+			"x": 260.0,
+			"y": -70.0
+		},
+		{
+			"collision": true,
+			"length": 85.44,
+			"rotation": -1.212,
+			"x": 295.0,
+			"y": -140.0
+		},
+		{
+			"collision": true,
+			"length": 58.3095,
+			"rotation": -1.0304,
+			"x": 325.0,
+			"y": -195.0
+		},
+		{
+			"collision": true,
+			"length": 50.0,
+			"rotation": -0.4189,
+			"x": 360.0,
+			"y": -225.0
+		},
+		{
+			"collision": true,
+			"length": 55.0,
+			"rotation": 0.2443,
+			"x": 400.0,
+			"y": -225.0
+		},
+		{
+			"collision": true,
+			"length": 56.5685,
+			"rotation": 0.7854,
+			"x": 440.0,
+			"y": -200.0
+		},
+		{
+			"collision": true,
+			"length": 160.0,
+			"rotation": 1.5708,
+			"x": 590.0,
+			"y": -290.0
+		},
+		{
+			"collision": true,
+			"length": 87.0,
+			"rotation": 0.0,
+			"x": 510.0,
+			"y": 20.0
+		},
+		{
+			"collision": true,
+			"length": 160.0,
+			"rotation": 0.0,
+			"x": 750.0,
+			"y": 60.0
+		},
+		{
+			"collision": true,
+			"length": 123.6932,
+			"rotation": -0.245,
+			"x": 890.0,
+			"y": 45.0
+		}
+	]
+}
